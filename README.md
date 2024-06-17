@@ -1,7 +1,3 @@
-Claro, vou ajustar o README para remover o código e incluir o link para o simulador.
-
----
-
 # Experiência Interativa da Fórmula E no Roblox com Arduino
 
 ## Integrantes
