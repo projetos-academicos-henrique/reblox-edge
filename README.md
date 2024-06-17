@@ -59,7 +59,4 @@ Para simular e testar o projeto, você pode utilizar o simulador online Wokwi. A
 
 [Simulador do Projeto no Wokwi](https://wokwi.com/projects/398724617714971649)
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você tiver sugestões ou encontrar bugs, por favor, abra uma issue ou faça um fork deste repositório e envie um pull request.
 
